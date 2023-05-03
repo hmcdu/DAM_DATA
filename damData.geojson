@@ -22,7 +22,7 @@
       "Name": "home dam",
       "Water Stored": "15000",
       "airtableId": "reckpiv4EZE9CWTH2",
-      "coodinates": "-37.152413, 143.307338",
+      "geometry": "-37.152413, 143.307338",
       "lat": "-37.152413",
       "lon": "143.307338"
     },
@@ -37,7 +37,7 @@
       "Name": "vineyard dam",
       "Water Stored": "28000",
       "airtableId": "rectr7A1zlQBznBki",
-      "coodinates": "-37.151899, 143.314852",
+      "geometry": "-37.151899, 143.314852",
       "lat": "-37.151899",
       "lon": "143.314852"
     }
