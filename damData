@@ -22,6 +22,13 @@
       "lon": "143.307338"
     },
     {
+      "Name": "update test",
+      "Water Stored": "20000",
+      "airtableId": "recn823w6O1R4Dkx0",
+      "lat": "-37.671515",
+      "lon": "142.340603"
+    },
+    {
       "Name": "vineyard dam",
       "Water Stored": "28000",
       "airtableId": "rectr7A1zlQBznBki",
