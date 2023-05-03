@@ -1,0 +1,32 @@
+{
+  "DAMS": [
+    {
+      "Name": "Dam 2",
+      "Water Stored": "50000",
+      "airtableId": "recRCVaufUBWuGNby",
+      "lat": "-37.661515",
+      "lon": "143.340603"
+    },
+    {
+      "Name": "front paddock ",
+      "Water Stored": "22000",
+      "airtableId": "recZ8ve14D3pt1qSd",
+      "lat": "-37.653838",
+      "lon": "143.322869"
+    },
+    {
+      "Name": "home dam",
+      "Water Stored": "15000",
+      "airtableId": "reckpiv4EZE9CWTH2",
+      "lat": "-37.152413",
+      "lon": "143.307338"
+    },
+    {
+      "Name": "vineyard dam",
+      "Water Stored": "28000",
+      "airtableId": "rectr7A1zlQBznBki",
+      "lat": "-37.151899",
+      "lon": "143.314852"
+    }
+  ]
+}
