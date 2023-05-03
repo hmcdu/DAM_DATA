@@ -1,0 +1,45 @@
+{
+  "DAMS": [
+    {
+      "Name": "Dam 2",
+      "Water Stored": "50000",
+      "airtableId": "recRCVaufUBWuGNby",
+      "lat": "-37.661515",
+      "lon": "143.340603"
+    },
+    {
+      "Water Stored": "0",
+      "airtableId": "recXw324LvJyJZRQb"
+    },
+    {
+      "Name": "front paddock ",
+      "Water Stored": "22000",
+      "airtableId": "recZ8ve14D3pt1qSd",
+      "lat": "-37.653838",
+      "lon": "143.322869"
+    },
+    {
+      "Name": "home dam",
+      "Water Stored": "15000",
+      "airtableId": "reckpiv4EZE9CWTH2",
+      "coodinates": "-37.152413, 143.307338",
+      "lat": "-37.152413",
+      "lon": "143.307338"
+    },
+    {
+      "Name": "update test",
+      "Water Stored": "20000",
+      "airtableId": "recn823w6O1R4Dkx0",
+      "lat": "-37.671515",
+      "lon": "142.340603"
+    },
+    {
+      "Name": "vineyard dam",
+      "Water Stored": "28000",
+      "airtableId": "rectr7A1zlQBznBki",
+      "coodinates": "-37.151899, 143.314852",
+      "lat": "-37.151899",
+      "lon": "143.314852"
+    }
+  ]
+}
